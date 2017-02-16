@@ -1,0 +1,29 @@
+﻿Build started 10/02/2017 01:34:01.
+     1>Project "C:\Users\Luke\Downloads\finalcoursework\P1322187xFinal\P1322187xFinal\P1322187xFinal.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt src\AABB.cpp src\background.cpp src\car.cpp src\game.cpp src\HUD.cpp src\main.cpp src\mainmenu.cpp src\tyre.cpp
+         tyre.cpp
+         mainmenu.cpp
+         main.cpp
+         HUD.cpp
+         game.cpp
+         car.cpp
+         background.cpp
+         AABB.cpp
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Luke\Downloads\finalcoursework\P1322187xFinal\Debug\P1322187xFinal.exe" /INCREMENTAL /NOLOGO "sfml-main-d.lib" "sfml-system-d.lib" "sfml-graphics-d.lib" "sfml-window-d.lib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Luke\Downloads\finalcoursework\P1322187xFinal\Debug\P1322187xFinal.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Luke\Downloads\finalcoursework\P1322187xFinal\Debug\P1322187xFinal.lib" /MACHINE:X86 Debug\AABB.obj
+         Debug\background.obj
+         Debug\car.obj
+         Debug\game.obj
+         Debug\HUD.obj
+         Debug\main.obj
+         Debug\mainmenu.obj
+         Debug\tyre.obj
+         LINK : C:\Users\Luke\Downloads\finalcoursework\P1322187xFinal\Debug\P1322187xFinal.exe not found or not built by the last incremental link; performing full link
+         P1322187xFinal.vcxproj -> C:\Users\Luke\Downloads\finalcoursework\P1322187xFinal\Debug\P1322187xFinal.exe
+     1>Done Building Project "C:\Users\Luke\Downloads\finalcoursework\P1322187xFinal\P1322187xFinal\P1322187xFinal.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:06.29
